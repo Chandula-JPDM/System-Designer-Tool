@@ -31,9 +31,9 @@ export class AppComponent {
         {
           "solutionSummary": "Brief overview of the solution",
           "recommendedArchitecture": {
-            "frontend": "Frontend framework/library",
-            "backend": "Backend technology",
-            "database": "Database system",
+            "frontend": "Suggest the best frontend framework/library",
+            "backend": "Suggest the best backend technology",
+            "database": "Suggest the most suitable database system",
             "realtime": "Real-time communication solution (if needed)",
             "reporting": "Tool or library for reporting (if needed)"
           },
